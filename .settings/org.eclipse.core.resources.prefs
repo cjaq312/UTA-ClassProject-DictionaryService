@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/com/aonaware/services/webservices/Definition.java=UTF-8
+encoding//src/com/aonaware/services/webservices/DictService.java=UTF-8
+encoding//src/com/aonaware/services/webservices/DictServiceLocator.java=UTF-8
+encoding//src/com/aonaware/services/webservices/DictServiceSoap.java=UTF-8
+encoding//src/com/aonaware/services/webservices/DictServiceSoapStub.java=UTF-8
+encoding//src/com/aonaware/services/webservices/Dictionary.java=UTF-8
+encoding//src/com/aonaware/services/webservices/DictionaryWord.java=UTF-8
+encoding//src/com/aonaware/services/webservices/Strategy.java=UTF-8
+encoding//src/com/aonaware/services/webservices/WordDefinition.java=UTF-8
